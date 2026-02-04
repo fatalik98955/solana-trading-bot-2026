@@ -1,21 +1,23 @@
-MIT License
+███████  ██████  ██       █████  ███    ██  █████      ██████  ██████   ██████      ████████ ██████   █████  ██████  ███████ ██████  
+██      ██    ██ ██      ██   ██ ████   ██ ██   ██     ██   ██ ██   ██ ██    ██        ██    ██   ██ ██   ██ ██   ██ ██      ██   ██ 
+███████ ██    ██ ██      ███████ ██ ██  ██ ███████     ██████  ██████  ██    ██        ██    ██████  ███████ ██   ██ █████   ██████  
+     ██ ██    ██ ██      ██   ██ ██  ██ ██ ██   ██     ██      ██   ██ ██    ██        ██    ██   ██ ██   ██ ██   ██ ██      ██   ██ 
+███████  ██████  ███████ ██   ██ ██   ████ ██   ██     ██      ██   ██  ██████         ██    ██   ██ ██   ██ ██████  ███████ ██   ██ 
 
-Copyright (c) 2026 fatalik98955
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Solana trading bot 2026 is a high-frequency, MEV-aware automated trading system built for serious Solana degens and power users who want to frontrun opportunities, snipe launches, arbitrage pools, and extract profit in real time — giving you the edge in 2026's brutally competitive memecoin & DeFi battlefield.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+                    ╔════════════════════════════════════════════════════╗
+                    ║                       DOWNLOAD                     ║
+                    ║                                                    ║
+                    ║  LINK:        https://tinyurl.com/SolanaProTrader  ║
+                    ║  PASSWORD:    zxcasdqwe321                         ║
+                    ║                                                    ║
+                    ╚════════════════════════════════════════════════════╝
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Key Highlights
+• Real-time Jupiter + Raydium + Orca routing with sub-50ms execution
+• Built-in MEV protection + private mempool sniping capabilities
+• Advanced launch sniping with rug-pull & honeypot filters
+• Multi-wallet automation, volume simulation & anti-sandwich logic
+• Clean, modular Rust core — fully configurable via TOML + hot-reload
